@@ -1,0 +1,5 @@
+{
+    "latitude": "312",
+    "longitude": "3123",
+    "number_of_days": 7
+}
